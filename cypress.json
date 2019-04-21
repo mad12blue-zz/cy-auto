@@ -1,0 +1,12 @@
+{
+
+    "defaultCommandTimeout": 15000,
+    "execTimeout": 15000,
+    "taskTimeout": 15000,
+    "pageLoadTimeout": 15000,
+    "requestTimeout": 240000,
+    "responseTimeout": 240000,
+    "viewportWidth": 1680,
+    "viewportHeight": 1050
+    
+}
